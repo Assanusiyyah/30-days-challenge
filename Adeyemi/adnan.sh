@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello from Adnan the script"
+echo "Hello from Adekunle the script"
